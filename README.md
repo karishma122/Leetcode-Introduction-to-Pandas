@@ -1,6 +1,6 @@
 # Leetcode Introduction to Pandas 🚀
 
-Welcome to my collection of solutions for Leetcode problems involving the Pandas library! Explore how I tackled these challenges using Pandas to enhance your data manipulation and analysis skills. 🧠💡
+Welcome to my collection of solutions for Leetcode problems involving the Pandas library! Explore how I tackled these challenges using Pandas to enhance data manipulation and analysis skills. 🧠💡
 
 ## 📝 Overview
 
